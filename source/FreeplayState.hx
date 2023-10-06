@@ -15,7 +15,7 @@ import flixel.text.FlxText;
 import flixel.util.FlxColor;
 import flixel.tweens.FlxTween;
 import flixel.ui.FlxButton;
-import lime.utils.Assets;
+import openfl.utils.Assets;
 import openfl.Lib;
 import flixel.system.FlxSound;
 import openfl.utils.Assets as OpenFlAssets;
